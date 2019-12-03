@@ -32,6 +32,8 @@ gem 'jbuilder', '~> 2.5'
 
 # use slim template to save typing energy
 gem "slim-rails"
+# Use friendly_id
+gem 'friendly_id', '~> 5.2.4'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
